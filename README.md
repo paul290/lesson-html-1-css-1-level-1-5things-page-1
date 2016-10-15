@@ -28,7 +28,15 @@
   1. Project name: pauls super adventures
   2. Project summary:
     1. This is a website about my top 5 adventures.
-      1. The 1st adventure is: My Roblox Adventures
-      2. The 2nd adventure is: 
+      1. The 1st Adventure Is: My Roblox Adventures
+        1. Why this adventure was great
+      2. The 2nd Adventure Is: My Festival Adventures
+        1. Why this adventure was great
+      3. The 3rd Adventure Is: My Brother Adventures
+        1. Why this adventure was great
+      4. The 4th Adventure Is: My Science Adventures
+        1. Why this adventure was great
+      5. The 5th Adventure Is: My Past Adventures
+        1. Why this adventure was great
   
   3. Project coordinator:
