@@ -25,6 +25,10 @@
   3. [ ] google
 
 ### Project details
-  1. Project name:
+  1. Project name: pauls super adventures
   2. Project summary:
+    1. This is a website about my top 5 adventures.
+      1. The 1st adventure is: My Roblox Adventures
+      2. The 2nd adventure is: 
+  
   3. Project coordinator:
