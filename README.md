@@ -12,12 +12,12 @@
  5. [x] indentation
 
 **CSS**
-  1. [x ] bg color
-  2. [ x] text align
-  3. [ x] font color
-  4. [ x] font size
-  5. [ x] px
-  6. [ x] em and strong
+  1. [x] bg color
+  2. [x] text align
+  3. [x] font color
+  4. [x] font size
+  5. [x] px
+  6. [x] em and strong
 
 **Dev Tools**
   1. [ ] code editors & IDEs
